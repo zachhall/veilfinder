@@ -1,5 +1,5 @@
 # VEILFINDER
-### An urban fantasy hack of Pathfinder 2nd Edition
+### An urban fantasy setting and hack for Pathfinder 2nd Edition
 
 Designed by Zach Hall
 
